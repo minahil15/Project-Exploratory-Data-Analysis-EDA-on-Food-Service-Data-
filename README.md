@@ -26,3 +26,5 @@ This project explores operational efficiency and food waste in a food service en
 - Food waste increases significantly on special event days
 - Humidity shows moderate correlation with food waste — may affect spoilage
 - Positive correlation between meals served and food waste suggests overproduction risks
+
+Looker Studio link: https://lookerstudio.google.com/reporting/78db20d6-c070-4746-85f4-0ea408b1bb74 
